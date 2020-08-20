@@ -1,5 +1,5 @@
 # FlyUC Electronics: Documentation and Guidelines
-The purpose of this repository is to house all the necessary guidelines and documentation of the FlyUC, with indepth documentation specifically for Electronics. As this repo grow, it will be used to onboard new members and catch up exisiting members on the development process and timeline.
+The purpose of this repository is to house all the necessary guidelines and documentation of the FlyUC, with indepth documentation specifically for Electronics. As this repo grows, it will be used to onboard new members and catch up exisiting members on the development process and timeline.
 
 ## Available Documentation:
 - Official Documents for the Review Process
