@@ -1,4 +1,14 @@
 # FlyUC Electronics: Documentation and Guidelines
-This repo contains all the styling and best practices for our github repos and documentation. Please refer to this when maintaining code and project guidelines.
+The purpose of this repository is to house all the necessary guidelines and documentation of the FlyUC, with indepth documentation specifically for Electronics. As this repo grows, it will be used to onboard new members and catch up exisiting members on the development process and timeline.
 
-*In progress - repo under construction*
+## Available Documentation:
+- Official Documents for the Review Process
+- Prototype Specific Documentation
+- Particular Installation Instructions
+- GitHub documentation, source control protocol (GitFlow)
+
+## Future Documentation:
+- Style Guides and Prefrences
+- Guidelines to pushing to master (PR protocol)
+- And any additional documentation for programming specific guidelines
+- ReadMe guidelines for repositories
